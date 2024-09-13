@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
   s.summary     = "OpenFGA Ruby Gem"
   s.description = "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar."
   s.license     = "Unlicense"
-  s.required_ruby_version = ">= 2.7"
+  s.required_ruby_version = ">= 2.6"
   s.metadata    = {}
 
   s.add_runtime_dependency 'typhoeus', '~> 1.0', '>= 1.0.1'
